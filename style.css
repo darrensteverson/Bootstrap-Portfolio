@@ -14,7 +14,7 @@
             }
             
             input[type=submit] {
-              background-color: lightskyblue;
+              background-color: darkblue;
               color: white;
               padding: 12px 20px;
               border: none;
@@ -23,7 +23,7 @@
             }
             
             input[type=submit]:hover {
-              background-color: blue;
+              background-color: lightskyblue;
             }
             
             .container {
